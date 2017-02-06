@@ -1,4 +1,4 @@
-###repair XcodeSnippets
+###repair XcodeSnippets (修复xcode没有代码提示)
 ##### BaihaoTian
 ####下载下来 放到任意文件夹  直接./repairXcodeSnippets.sh 执行   
 ####如果提示 ```permission denied: ./repairXcodeSnippets.sh```
